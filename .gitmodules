@@ -1,0 +1,6 @@
+[submodule "LudotecaTan_Cliente"]
+	path = LudotecaTan_Cliente
+	url = https://github.com/AngeletaT/LudotecaTan_Cliente.git
+[submodule "LudotecaTan_Servidor"]
+	path = LudotecaTan_Servidor
+	url = https://github.com/AngeletaT/LudotecaTan_Servidor.git
