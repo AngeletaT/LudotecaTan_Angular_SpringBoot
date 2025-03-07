@@ -10,13 +10,7 @@
 - [Descripción del Proyecto](#descripción-del-proyecto)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Estructura del Proyecto](#estructura-del-proyecto)
-- [Requisitos Previos](#requisitos-previos)
-- [Instalación y Ejecución](#instalación-y-ejecución)
-  - [Parte del Servidor (Spring Boot)](#parte-del-servidor-spring-boot)
-  - [Parte del Cliente (Angular)](#parte-del-cliente-angular)
-- [Contribuciones](#contribuciones)
-- [Mejoras Futuras](#mejoras-futuras)
-- [Licencia](#licencia)
+- [Agradecimientos](#agradecimientos)
 
 ## Descripción del Proyecto
 
